@@ -2,6 +2,8 @@
 Mapping the occurrence of words in a text using a Radix Tree (PATRICIA).
 This program was made for an assigment of my Algorithms and Data Structures course.
 Although some changes were made, the following classes were extracted from the book "Projeto de Algoritmos: Implementações em Java e C++" written by Nivio Ziviani, Ph.D.: 'ArvorePatricia', 'ExtraiPalavra';
+And are available to download here:
+http://www2.dcc.ufmg.br/livros/algoritmos-java/implementacoes.php
 
 Running:
 On the main folder run the following code in the terminal:
