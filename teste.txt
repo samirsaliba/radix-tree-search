@@ -1,4 +1,7 @@
 John Mullan on William Gibson’s Neuromancer – Guardian book club
+
+A new vocabulary for a transformed reality: the deeply influential cyberpunk classic, 30 years on from its original publication
+
 The first-time reader of William Gibson’s Neuromancer, if unacquainted with any of Gibson’s other novels, is likely to be perplexed and disoriented.
 Perplexed, from being absorbed into some undateable future world governed by an advanced technology whose capacities have to be learned as one reads.
 Disoriented, as a result of the novel’s transformation of our very idea of physical space – a transformation that deeply influenced science fiction writers, and indeed film-makers, who followed Gibson.
@@ -9,5 +12,13 @@ But the novel is not much interested in character and plot. Instead it is dedica
 
 A different kind of space, however, stretches away in front of him and us. This is the dimension for which Gibson invented a word that is lodged in our language: cyberspace. In fact, Gibson had first used it in a short story published in 1982, two years before Neuromancer appeared. In this, his first novel, it becomes dominant (his use of the word is duly credited in the Oxford English Dictionary). Gibson writes: “Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators.” This is the space, also called “the Matrix”, where Case really comes alive. “Case … gazed out across the plateaus of the Eastern Seaboard Fission Authority, into the infinite neuroelectronic void of the matrix”. The journeys that are described in any detail are through cyberspace. “Dizzying sensation of headlong movement, colours, whipping around corners and through narrow corridors.”
 
+Case lives for “the bodiless exultation of cyberspace”. “The body was meat”: sensation unenhanced by computers is, he finds, a poor thing. Via a device called a “simstim”, Case can even share the perceptions of his accomplice and sometime lover Molly – he can “jack into” her brain. He can see what she sees, hear what she hears, feel her fears. The simstim is a device for the novelist too, of course, for we are thereby given access to another character’s experiences. Narrative can cut between viewpoints while remaining rooted in Case’s consciousness.
 
+Neologisms – new words or old words given strange new meanings – are essential to the book, and pepper the dialogue, which is a brew of detective fiction demotic and techno-speak: “Hit the first strata and that’s all she wrote. My joeboy smelled the skin frying and pulled the trodes off me. Mean shit, that ice”; “The face of the Kuang logics kinda sleazes up to the target and mutates, so it gets to be exactly like the ice fabric.” The amusement for the reader is that we are inducted into this patois, learning the lingo as we go. Our antihero, we gradually realise, attaches electrodes (“trodes”) to his head to gain access via a “deck” to “the matrix”. “Ice”, we infer, is slang for the software devised to defend computer systems against hackers such as Case. And not just defensively: because characters can truly enter the virtual world, “ice” will sometimes kill intruders.
+
+The characters are themselves fixated on technology, and wonder aloud at how its powers might be stretched ever further. This collective fixation allows for passages of explanation that are not authorial insertions. The novel’s third-person narration is entirely from Case’s point of view, and is saturated by technology because his perception is shaped by it. The body itself is technologically formed – every character seems to have been the beneficiary of surgical enhancement or reconstruction. Molly has cybernetic eyes that allow her, like a fighter pilot, to see computer-generated data as well as what is in front of her; others have their bodies regrafted to enhance youth or strength, or to disguise themselves.
+
+The natural has been subsumed into the artificial. No wonder that the book’s opening sentence – “The sky above the port was the colour of television, tuned to a dead channel” – has become famous in itself. It captures a whole genre’s characteristic, unsettling but exciting inversion of the order of things.
+
+This article was extracted from https://www.theguardian.com/books/2014/nov/07/neuromancer-william-gibson-review-cyberpunk-classic-30-years-on.
 
